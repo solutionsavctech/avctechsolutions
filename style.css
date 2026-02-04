@@ -49,6 +49,9 @@ body {
   margin-bottom: 30px;
 }
 
+
+
+
 .booking-hero h1 {
   font-size: 36px;
   margin-bottom: 10px;
@@ -155,6 +158,16 @@ body {
     border-radius: 15px;
 }
 
+.section {
+    padding: 90px 20px;
+}
+
+#why {
+    margin-top: 80px;
+}
+
+
+
 /* FOOTER */
 .footer {
     background: #000;
@@ -179,6 +192,7 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
 
 
 
