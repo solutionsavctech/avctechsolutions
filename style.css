@@ -34,20 +34,6 @@ body {
 .hero p {
     font-size: 1.3rem;
 }
-.booking-hero {
-  background: linear-gradient(
-      rgba(0,0,0,0.6),
-      rgba(0,0,0,0.6)
-    ),
-    url("\Images\banner.jpg");
-  background-size: cover;
-  background-position: center;
-  padding: 80px 20px;
-  text-align: center;
-  color: white;
-  border-radius: 10px;
-  margin-bottom: 30px;
-}
 
 
 
@@ -192,6 +178,7 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
 
 
 
