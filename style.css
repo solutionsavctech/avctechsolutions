@@ -39,7 +39,7 @@ body {
       rgba(0,0,0,0.6),
       rgba(0,0,0,0.6)
     ),
-    url("images/booking-header.jpg");
+    url("\Images\banner.jpg");
   background-size: cover;
   background-position: center;
   padding: 80px 20px;
@@ -179,6 +179,7 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
 
 
 
