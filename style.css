@@ -60,7 +60,7 @@ body {
     font-weight: 500;
 }
 
-#services {
+services {
     background: #f4f6f8;
 }
 
@@ -139,6 +139,12 @@ body {
     padding: 20px;
 }
 
+booking iframe {
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+
 /* MOBILE */
 @media (max-width: 800px) {
     .hero h1 {
@@ -149,4 +155,5 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
 
